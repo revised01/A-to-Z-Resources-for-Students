@@ -281,4 +281,7 @@ struct addrress
    int pin; 
 };
 ```
-
+- Types of structure:
+1. Tagged structure - tag after `struct`
+2. Variable structure - identifier before last semicolon
+3. Type definition structure - a `typedef` before `struct` and a type identifier before last semicolon.
